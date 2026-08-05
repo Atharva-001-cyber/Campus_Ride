@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0344-reverse-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Array
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0232-implement-queue-using-stacks) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Design
 |  |
@@ -91,9 +93,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
