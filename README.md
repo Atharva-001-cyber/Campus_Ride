@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0268-missing-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0232-implement-queue-using-stacks) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
