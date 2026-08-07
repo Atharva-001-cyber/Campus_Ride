@@ -1,39 +1,30 @@
 class Solution {
     public int evalRPN(String[] tokens) {
-        
-        Stack<Integer> stack = new Stack<>();
-
-        for (int i = 0; i < tokens.length; i++) {
-
-            String s = tokens[i];
-
-            if (s.equals("+")) {
-                int b = stack.pop();
-                int a = stack.pop();
-                stack.push(a + b);
-
-            } else if (s.equals("-")) {
-                int b = stack.pop();
-                int a = stack.pop();
-                stack.push(a - b);
-
-            } else if (s.equals("*")) {
-                int b = stack.pop();
-                int a = stack.pop();
-                stack.push(a * b);
-
-            } else if (s.equals("/")) {
-                int b = stack.pop();
-                int a = stack.pop();
-                stack.push(a / b);
-
-            } else {
-                stack.push(Integer.parseInt(s));
-            }
-        }
-
-        return stack.pop();
+      Stack<Integer> stack = new Stack<>();
+      for(int i = 0;i < tokens.length; i++){
+        String s = tokens[i];
+        if(s.equals("+")){
+            int b = stack.pop();
+            int a = stack.pop();
+            stack.push(a+b);
+        }else if(s.equals("-")){
+            int b = stack.pop();
+            int a = stack.pop();
+            stack.push(a-b);
+        }else if(s.equals("*")){
+            int b = stack.pop();
+            int a = stack.pop();
+            stack.push(a*b);
+        }else if(s.equals("/")){
+            int b = stack.pop();
+            int a = stack.pop();
+            stack.push(a/b);
+      }else{
+        stack.push(Integer.parseInt(s));
+      }
     }
+    return stack.peek(); // stack.pop() can also be written instead of stack.peek()
+}
 }
 
 // Synced seamlessly with LeetHub Pro
