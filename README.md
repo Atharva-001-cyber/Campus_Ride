@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0283-move-zeroes) |
+| [0877-stone-game](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,4 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
