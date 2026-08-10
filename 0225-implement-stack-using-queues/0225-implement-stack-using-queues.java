@@ -26,7 +26,7 @@ class MyStack {
     }
     
     public boolean empty() {
-        return A.isEmpty();
+        return A.isEmpty() && B.isEmpty();
     }
 }
 
