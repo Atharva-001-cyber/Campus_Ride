@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0877-stone-game) |
 ## Hash Table
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -132,5 +134,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
