@@ -1,33 +1,22 @@
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
          int n = nums.length;
-        int[] answer = new int[n];
-
-        Stack<Integer> stack = new Stack<>();
-
-        // Initially -1
-        for (int i = 0; i < n; i++) {
-            answer[i] = -1;
+         int ans[] = new int[n];
+         Arrays.fill(ans, -1);
+         Stack<Integer> stack = new Stack<>();
+         for(int i = 0 ; i < 2*n ; i++)
+{
+        int curr = i % n;
+        while(!stack.isEmpty() && nums[curr] > nums[stack.peek()]){
+            int index = stack.pop();
+            ans[index] = nums[curr];  
         }
-
-        // Traverse array twice
-        for (int i = 0; i < 2 * n; i++) {
-
-            int current = nums[i % n];
-
-            while (!stack.isEmpty() && nums[stack.peek()] < current) {
-                int prev = stack.pop();
-                answer[prev] = current;
-            }
-
-            // Only push indices during first traversal
-            if (i < n) {
-                stack.push(i);
-            }
+        if(i < n){
+            stack.push(curr);
         }
-
-        return answer;
-    }
+}
+return ans;  
+  }
 }
 
 // Synced seamlessly with LeetHub Pro
