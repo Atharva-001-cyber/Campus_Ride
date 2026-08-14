@@ -11,9 +11,7 @@ class Solution {
             int index = stack.pop();
             ans[index] = nums[curr];  
         }
-        if(i < n){
             stack.push(curr);
-        }
 }
 return ans;  
   }
