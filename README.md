@@ -148,4 +148,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0901-online-stock-span) |
+## Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Atharva-001-cyber/Campus_Ride/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
