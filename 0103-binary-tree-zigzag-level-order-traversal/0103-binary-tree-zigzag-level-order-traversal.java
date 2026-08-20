@@ -19,24 +19,16 @@ class Solution {
          if (root == null) {
             return ans;
         }
-
-        Deque<TreeNode> queue = new LinkedList<>();
-        queue.offer(root);
-
-        boolean reverse = false;
-
-        while (!queue.isEmpty()) {
-
-            int levelSize = queue.size();
-            List<Integer> currentLevel = new ArrayList<>();
-
-            for (int i = 0; i < levelSize; i++) {
-
-                // LEFT TO RIGHT
-                if (!reverse) {
-
-                    TreeNode currentNode = queue.pollFirst();
-                    currentLevel.add(currentNode.val);
+    Deque <TreeNode> queue = new LinkedList<>();
+    queue.offer(root);
+    boolean reverse = false;
+    while(!queue.isEmpty()){
+        int size = queue.size();
+        List<Integer> currentLevel = new ArrayList<>();
+        for(int i = 0 ; i < size ; i++){
+        if(!reverse){
+            TreeNode currentNode = queue.pollFirst();
+            currentLevel.add(currentNode.val);
 
                     if (currentNode.left != null) {
                         queue.offerLast(currentNode.left);
@@ -45,12 +37,12 @@ class Solution {
                     if (currentNode.right != null) {
                         queue.offerLast(currentNode.right);
                     }
-                }
 
-                // RIGHT TO LEFT
-                else {
+                } else {
+                    // RIGHT → LEFT
 
                     TreeNode currentNode = queue.pollLast();
+
                     currentLevel.add(currentNode.val);
 
                     if (currentNode.right != null) {
@@ -66,9 +58,8 @@ class Solution {
             ans.add(currentLevel);
 
             reverse = !reverse;
-        }
-
-        return ans;
+    }
+    return ans;
     }
 }
 
